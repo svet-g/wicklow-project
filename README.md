@@ -83,7 +83,7 @@ To run tests, run the following commands
 
 ## Authors
 
-- [@Hugues](https://www.github.com/Hugues)
+- [@Hugues](https://github.com/Hghrv)
 - [@maxMarty](https://www.github.com/maxMarty) 
 - [@SSM-F](https://www.github.com/SSM-F)
 - [@svet-g](https://www.github.com/svet-g)
